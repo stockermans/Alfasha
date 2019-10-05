@@ -14,10 +14,6 @@ It's written in Javascript. This software is experimental and probably has bugs.
 
 * Javascript, css, html
 
-## Authors
-
-* **Michael Stokermans**
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
