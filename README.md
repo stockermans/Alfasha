@@ -16,7 +16,7 @@ It's written in Javascript. This software is experimental and probably has bugs.
 
 ## Authors
 
-* **Michael Svijtera**
+* **Michael Stokermans**
 
 ## License
 
