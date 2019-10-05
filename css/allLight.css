@@ -1,0 +1,29 @@
+.inputs {color:black;}
+
+.opDisp {color:steelblue;}
+
+.svgs:hover{stroke:blueviolet;}
+
+.mainInput {border:1px solid #5555;}
+
+.lengthInput {border:1px solid #555;}
+
+.outContents {background-color:whitesmoke;}
+
+.outputMsgs {background-color:lightsteelblue;}
+
+.btn {background-color:transparent;color:black;}
+
+.opSettingsBar:hover .opDisp {color:lightsteelblue;}
+
+.btn:hover {background-color:lightsteelblue;color:black;}
+
+.opSettingsBar:hover {background-color:lightgray;color:black;}
+
+.aBody .activated {background-color:lightsteelblue;color:white;}
+
+
+
+.lengthInput:active, .mainInput:active {border:1px solid steelblue;}
+
+.lengthInput:focus, .mainInput:focus {border:1px solid steelblue;outline:none;}

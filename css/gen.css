@@ -1,0 +1,102 @@
+.hover:hover .hov-hover-light-green{ color:#9eebcf; }
+.animate-width{
+  
+    -webkit-transition: width 1s ease-in-out;
+    -moz-transition: width 1s ease-in-out;
+    -o-transition: width 1s ease-in-out;
+    transition: width 1s ease-in-out;
+}
+
+.fLeft {float:left;}
+
+.fullBtn {width:100%;}
+
+.fRight {float:right;}
+
+.inputs {font-size:20px;}
+
+.ital {font-style:italic;}
+
+.opDisp {font-weight:500;}
+
+.mainHead {text-align:center;}
+
+.outputMsgs {text-indent:10px;}
+
+.genItemPadsUp{margin-bottom:0;}
+
+.cursorPointer {cursor:pointer;}
+
+.outContents {padding-left:5px;}
+
+.header {padding:30px 0 30px 0;}
+
+.genItemPadsDown{margin-bottom:0;}
+
+.checkBox {height:22px; width: 22px;}
+
+.aBody, .times {font: 400 18px Arial;}
+
+.checkBoxBoxes {display:inline-block;}
+
+.aBody .activated:hover {opacity:0.8;}
+
+.leftM {margin-left:15px;margin-top:5px;}
+
+.rightM {margin-right:15px;margin-top:5px;}
+
+.fullBtnBox {margin:5px 0 5px 0;padding:0;}
+
+.aBody {font-size:18px;margin:0;width:100%;}
+
+.activePads {margin-bottom:5px;padding:5px;}
+
+.checkBoxLength {position:relative;top:7px;}
+
+.checkBox:before {height: 20px;width: 20px;}
+
+.faInputSm {position:absolute;right:0;top:0;}
+
+.checkMarks{padding:10px;word-wrap:break-word;}
+
+.divMargin {margin-left:3px;margin-right:3px;}
+
+.faBox {padding-bottom:10px;padding-top:10px;}
+
+.faOutputs {min-height:90px;position:relative;}
+
+.genActivePads {margin-bottom:5px;padding:10px;}
+
+.opSettingsBar:hover .opDisp {color:lightsteelblue;}
+
+.btn:hover {background-color:steelblue;color:white;}
+
+.checkBox:after {height: 16px;top: -20px;width: 16px;}
+
+.rArrow {font-size:20px;font-weight:700;margin-right:10px;}
+
+.headTitle {font-weight:100;margin:0;padding:10px 0 10px 0;}
+
+.mainInput {outline-offset:-2px;text-indent:10px;width:100%;}
+
+.mainBodyBoxes {margin:15px 50px 50px 50px;position:relative;}
+
+.bg-yellow { background-color:yellow;color:black; }
+
+.opSettingsBar:hover {background-color:whitesmoke;color:black;}
+
+.btn:focus {background-color:steelblue;color:white;outline:none;}
+
+.btn {border:none;cursor:pointer;font-size:18px;font-weight:300;margin:1px;padding:10px;border-radius:9px;}
+
+.lengthInput {outline-offset:-2px;padding-bottom:10px;padding-top:10px;text-indent:10px;}
+
+.opSettingsBar {left:0;min-height:20px;width:100%;word-break:break-all;}
+
+.genTransition300 {-webkit-transition:all 300ms ease-out;-moz-transition:all 300ms ease-out;-o-transition:all 300ms ease-out;}
+
+.genTransition150 {-webkit-transition:all 150ms ease-out;-moz-transition:all 150ms ease-out;-o-transition:all 150ms ease-out;}
+
+.outputEnd {border-radius:9px;color:white;background-color:lightseagreen;font-weight:700;letter-spacing:2px;overflow-wrap:break-word;text-align:left;text-indent:5px;}
+
+.outputStart {border-radius:9px;color:white;background-color:lightskyblue;font-weight:700;letter-spacing:2px;overflow-wrap:break-word;text-align:left;text-indent:5px;}

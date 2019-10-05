@@ -1,0 +1,33 @@
+.svgs {stroke:white;}
+
+.inputs {color:white;}
+
+.svgs:hover{stroke:thistle;}
+
+.opDisp {color:lightsteelblue;}
+
+.outContents {background-color:gray;}
+
+.outputMsgs {background-color:steelblue;}
+
+.aBody {background-color:#1A1A1A;color:white;}
+
+.btn {background-color:transparent;color:white;}
+
+.btn:hover {background-color:steelblue;color:white;}
+
+.opSettingsBar:hover .opDisp  {color:lightsteelblue;}
+
+.opSettingsBar:hover {background-color:gray;color:white;}
+
+.mainInput {background-color:black;border:1px solid white;}
+
+.aBody .activated { background-color:steelblue;color:white;}
+
+.lengthInput {background-color:black;border:1px solid white;}
+
+.lengthInput:hover, .mainInput:hover {border:1px solid steelblue;}
+
+.lengthInput:active, .mainInput:active {border:1px solid steelblue;}
+
+.lengthInput:focus, .mainInput:focus {border:1px solid steelblue;outline:none;}
