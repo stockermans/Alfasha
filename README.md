@@ -2,9 +2,11 @@
 
 Alfasha is a super experimental obfuscation playground tool. It's like a rabbit in a hat. It is purely for experimentation with the concept of obfuscations. Alfasha is named as a play on words.
 
+![](header.png)
+
 ## Getting Started
 
-Open alfa.html
+Open alfa.html, or visit it live at [alfasha.now.sh/alfa.html](https://alfasha.now.sh/alfa.html) 
 
 ### Disclaimer
 
